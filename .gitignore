@@ -1,0 +1,17 @@
+# Verilator build output
+verilog/out/
+verilog/obj_dir/
+verilog/Vtb
+verilog/Vtb_*
+*.vcd
+
+# Toolchain / assembler artifacts and logs
+*.o
+*.d
+*.elf
+*.bin
+err.log
+log.txt
+
+# Editor / OS cruft
+.DS_Store
