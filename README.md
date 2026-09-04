@@ -72,7 +72,7 @@ CSR bank).
 
 ## Related project
 
-[`game-of-life-riscv`](../../game-of-life-riscv) — Conway's Game of Life written entirely in
+[`game-of-life-riscv`](https://github.com/Zaynab79/game-of-life-riscv) — Conway's Game of Life written entirely in
 RISC-V assembly for this CPU, driving the LED matrix and reading the on-board buttons through the
 memory-mapped I/O this SoC exposes.
 
